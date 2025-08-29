@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gW6HqZIT0xM=",
+  "success": true,
+  "projectFilePath": "/home/illinab/dev/FizzBuzz/FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "/home/illinab/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
